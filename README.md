@@ -1,9 +1,9 @@
-# Arman-Ahrari
+
 <div align="center">
 
-<img src="<div align="center">
-  <img src="assets/cyber-banner.png" width="100%" />
-</div>" width="100%"/>
+<img src="assets/cyber-banner.png" width="100%" />
+
+<br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=PHP+%26+Python+Developer;Django+Backend+Developer;Web+Developer+%26+Graphic+Designer;Always+Learning+Something+New" />
 
@@ -11,6 +11,8 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-ArmanAhrari-181717?style=for-the-badge&logo=github)](https://github.com/ArmanAhrari)
 ![Profile Views](https://komarev.com/ghpvc/?username=ArmanAhrari&style=for-the-badge&color=7B2CFB)
+
+</div>
 
 ---
 
@@ -38,7 +40,9 @@ Hi! I'm **Arman Ahrari**, a Computer Engineering graduate specializing in IT, pa
 
 ### Design & Creativity
 
-Photoshop • Illustrator • CorelDRAW • Canva
+<img src="https://skillicons.dev/icons?i=ps,ai&theme=dark" />
+
+**CorelDRAW • Canva • Graphic Design**
 
 </div>
 
@@ -50,6 +54,28 @@ Photoshop • Illustrator • CorelDRAW • Canva
 - Building modern websites and web applications.
 - Learning and mastering JavaScript.
 - Exploring new tools and technologies.
+- Creating creative digital experiences.
+
+---
+
+## 🛠️ My Other Skills
+
+- Team Management & Collaboration
+- Problem Solving
+- Creative Thinking
+- Laptop Hardware & Software Repair
+- Customer Communication
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/ArmanAhrari)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:armanahrarigit@gmail.com)
+
+</div>
 
 ---
 
@@ -57,6 +83,6 @@ Photoshop • Illustrator • CorelDRAW • Canva
 
 ### ⚡ THINK • CODE • CREATE • REPEAT ⚡
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:30106B,100:050816&height=110&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:30106B,100:050816&height=110&section=footer" width="100%" />
 
 </div>
