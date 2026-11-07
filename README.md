@@ -6,11 +6,12 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=PHP+%26+Python+Developer;Django+Backend+Developer;Web+Developer+%26+Graphic+Designer;Always+Learning+Something+New" />
 
 <br/>
+-->
 
 [![GitHub](https://img.shields.io/badge/GitHub-ArmanAhrari-181717?style=for-the-badge&logo=github)](https://github.com/ArmanAhrari)
 ![Profile Views](https://komarev.com/ghpvc/?username=ArmanAhrari&style=for-the-badge&color=7B2CFB)
 
-</div> -->
+</div> 
 <div align="center">
   <img src="assets/cyber-banner.png" width="100%" />
 </div>
