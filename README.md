@@ -15,7 +15,7 @@
 </div>
 
 ---
-hello 🤝🤝
+Hello 🤝🤝
 
 ## 👨‍💻 About Me
 
