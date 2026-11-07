@@ -1,12 +1,10 @@
 # Arman-Ahrari
 <div align="center">
 
-<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:30106B,100:00F7FF&height=220&section=header&text=ARMAN%20AHRARI&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=DEVELOPER%20%7C%20DESIGNER%20%7C%20CREATOR&descAlignY=60&descSize=15" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:30106B,100:00F7FF&height=220&section=header&text=ARMAN%20AHRARI&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=DEVELOPER%20%7C%20DESIGNER%20%7C%20CREATOR&descAlignY=60&descSize=15" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=PHP+%26+Python+Developer;Django+Backend+Developer;Web+Developer+%26+Graphic+Designer;Always+Learning+Something+New" /> -->
-<div align="center">
-  <img src="assets/cyber-banner.png" width="100%" />
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=PHP+%26+Python+Developer;Django+Backend+Developer;Web+Developer+%26+Graphic+Designer;Always+Learning+Something+New" />
+
 <br/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-ArmanAhrari-181717?style=for-the-badge&logo=github)](https://github.com/ArmanAhrari)
