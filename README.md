@@ -63,19 +63,4 @@ Team Management • Teamwork • Problem Solving
 Creative Thinking • Customer Communication  
 Laptop Hardware & Software Repair
 
----
-
-## 🤝 Connect With Me
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/ArmanAhrari)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:armanahrarigit@gmail.com)
-
-<br/>
-
-### ⚡ THINK • CODE • CREATE • REPEAT ⚡
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:30106B,100:050816&height=110&section=footer" width="100%" />
-
 </div>
