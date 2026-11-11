@@ -5,7 +5,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=PHP+%26+Python+Developer;Django+Backend+Developer;Web+Developer+%26+Graphic+Designer;Always+Learning+Something+New" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=PHP+%26+Python+Developer;Django+Backend+Developer;Web+Developer+%26+Graphic+Designer;Currently+Learning+JavaScript" />
 
 <br/>
 
@@ -15,19 +15,18 @@
 </div>
 
 ---
-Hello 🤝🤝
 
 ## 👨‍💻 About Me
 
-Hi! I'm **Arman Ahrari**, a Computer Engineering graduate specializing in IT, passionate about technology, programming, and creative design.
+Hi! I'm **Arman Ahrari**, a Computer Engineering graduate specializing in IT, passionate about programming, technology, and creative design.
 
-- 💻 Web Developer focused on PHP and Python.
-- 🐍 Experienced with Python and Django.
-- 🌐 Skilled in HTML, CSS, PHP and MySQL.
+- 💻 Web Development with PHP and Python.
+- 🐍 Experience with Django and Backend Development.
+- 🌐 HTML, CSS and MySQL.
 - ⚡ Currently learning JavaScript.
-- 🎨 Graphic Designer passionate about visual creativity.
-- 🔧 Experienced in laptop hardware and software troubleshooting.
-- 🚀 Always exploring new technologies and building new things.
+- 🎨 Graphic Designer with experience in Photoshop, Illustrator, CorelDRAW and Canva.
+- 🔧 Laptop Hardware & Software Repair.
+- 🚀 Always learning and exploring new technologies.
 
 ---
 
@@ -51,21 +50,18 @@ Hi! I'm **Arman Ahrari**, a Computer Engineering graduate specializing in IT, pa
 
 ## 🎯 What I'm Working On
 
+- Learning and practicing JavaScript.
 - Improving my backend development skills.
-- Building modern websites and web applications.
-- Learning and mastering JavaScript.
-- Exploring new tools and technologies.
-- Creating creative digital experiences.
+- Building websites and practical projects.
+- Exploring new technologies.
 
 ---
 
-## 🛠️ My Other Skills
+## 🛠️ Other Skills
 
-- Team Management & Collaboration
-- Problem Solving
-- Creative Thinking
-- Laptop Hardware & Software Repair
-- Customer Communication
+Team Management • Teamwork • Problem Solving  
+Creative Thinking • Customer Communication  
+Laptop Hardware & Software Repair
 
 ---
 
@@ -76,11 +72,7 @@ Hi! I'm **Arman Ahrari**, a Computer Engineering graduate specializing in IT, pa
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/ArmanAhrari)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:armanahrarigit@gmail.com)
 
-</div>
-
----
-
-<div align="center">
+<br/>
 
 ### ⚡ THINK • CODE • CREATE • REPEAT ⚡
 
