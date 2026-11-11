@@ -7,6 +7,16 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=PHP+%26+Python+Developer;Django+Backend+Developer;Web+Developer+%26+Graphic+Designer;Currently+Learning+JavaScript" />
 
+
+----
+<div align="center">
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;Let's+Code+and+Create+Together!" alt="Animated Welcome Text" />
+</a>
+
+</div>
+---
 <br/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-ArmanAhrari-181717?style=for-the-badge&logo=github)](https://github.com/ArmanAhrari)
